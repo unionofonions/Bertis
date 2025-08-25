@@ -1,0 +1,20 @@
+{
+    "name": "Clockwork.Bertis",
+    "rootNamespace": "Clockwork.Bertis",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:d84a1f4bf6d6e5a47b981cc0c1667c64",
+        "GUID:0ea55dc3b0a4a584caa169d67b79b78b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

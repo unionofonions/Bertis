@@ -1,0 +1,20 @@
+{
+    "name": "Clockwork.Scripting",
+    "rootNamespace": "Clockwork.Scripting",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:9a87097604f806340b969a2d9261a322",
+        "GUID:d84a1f4bf6d6e5a47b981cc0c1667c64",
+        "GUID:0ea55dc3b0a4a584caa169d67b79b78b",
+        "GUID:19d0edbdf480d9446a7fa5e2359962f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
